@@ -1,5 +1,15 @@
 Android Sunflower (alpha)
 =========================
+
+Action bar up button fix
+------------------------
+
+### Fixed
+![Gif](https://github.com/isaul32/android-sunflower/raw/master/fix.gif)
+
+### Original
+![Gif](https://github.com/isaul32/android-sunflower/raw/master/org.gif)
+
 [![CircleCI](https://circleci.com/gh/googlesamples/android-sunflower/tree/master.svg?style=shield)](https://circleci.com/gh/googlesamples/android-sunflower/tree/master)
 
 A gardening app illustrating Android development best practices with Android Jetpack.
